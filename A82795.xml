@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble address of the Right Honourable the Lords Spiritual &amp; Temporal and Commons in Parliament assembled presented to His Majesty on the twenty fourth of February, 1695. And His Majesties most gracious answer thereunto.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82795</idno>
+            <idno type="STC">Wing E1551</idno>
+            <idno type="STC">ESTC R223381</idno>
+            <idno type="EEBO-CITATION">99897407</idno>
+            <idno type="PROQUEST">99897407</idno>
+            <idno type="VID">132820</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82795)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 132820)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2497:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble address of the Right Honourable the Lords Spiritual &amp; Temporal and Commons in Parliament assembled presented to His Majesty on the twenty fourth of February, 1695. And His Majesties most gracious answer thereunto.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>England and Wales. Sovereign (1689-1694 : William and Mary)</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Charles Bill, and the executrix of Thomas Newcomb deceas'd, printers to the Kings most Excellent Majesty,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695. [i.e. 1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dates are given according to Lady Day dating.</note>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:132820:1" rendition="simple:additions"/>
+            <p>The Humble ADDRESS Of the Right Honourable the Lords Spiritual &amp; Temporal AND COMMONS In Parliament Aſſembled, Preſented to HIS MAJESTY On the Twenty fourth of <hi>February,</hi> 1695.</p>
+            <p>AND His Majeſties MOST GRACIOUS ANSWER THEREUNTO.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Charles Bill,</hi> and the Executrix of <hi>Thomas Newcomb</hi> deceas'd; Printers to the Kings moſt Excellent Majeſty. 1695.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:132820:2"/>
+            <opener>
+               <dateline>
+                  <date>Die Martis 25. Feb. 1695.</date>
+               </dateline>
+            </opener>
+            <p>IT is Ordered by the Lords Spiritual and Tem<g ref="char:EOLhyphen"/>poral in Parliament Aſſembled, That the Addreſs of both Houſes, Preſented to His Ma<g ref="char:EOLhyphen"/>jeſtly Yeſterday, and His Majeſties moſt Gracious Anſwer thereunto, ſhall be forthwith Printed and Publiſhed.</p>
+            <closer>
+               <signed>
+                  <hi>Matth. Johnſon,</hi> Cleric' Parliamentor'</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="address">
+            <pb n="3" facs="tcp:132820:2"/>
+            <head>The Humble ADDRESS OF THE Right Honourable the Lords Spiritual and Temporal, and Commons in Parliament Aſſembled.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Lunae</hi> 24. <hi>Feb.</hi> 1695.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E Your Majeſties moſt Loyal and Dutiful Sub<g ref="char:EOLhyphen"/>jects, the Lords Spiritual and Temporal, and Com<g ref="char:EOLhyphen"/>mons in this preſent Parlia<g ref="char:EOLhyphen"/>ment Aſſembled, Having taken into our Serious Con<g ref="char:EOLhyphen"/>ſideration what Your Majeſty hath been Plea<g ref="char:EOLhyphen"/>ſed to Communicate to us this Day, think it our Duty, in the Firſt Place, to give Your Ma<g ref="char:EOLhyphen"/>jeſty moſt humble Thanks, for having Ac<g ref="char:EOLhyphen"/>quainted Your Parliament with the great Dan<g ref="char:EOLhyphen"/>ger Your Sacred Perſon hath been ſo nearly Expoſed to, and the Deſign of an Invaſion from our Enemies Abroad; We heartily Congratulate Your Majeſties Happy Preſer<g ref="char:EOLhyphen"/>vation, and Thankfully Acknowledge the Sig<g ref="char:EOLhyphen"/>nal Providence of God in it; and at the ſame time Declare our Deteſtation and Abhorrence of ſo Vilanous and Barbarous a Deſign. And ſince the Safety and Welfare of Your Majeſties
+<pb n="4" facs="tcp:132820:3"/>Dominions do ſo Entirely Depend upon Your Life, we moſt humbly Beſeech Your Ma<g ref="char:EOLhyphen"/>jeſty to take more than ordinary Care of Your Royal Perſon, And we take this Occaſion to Aſſure Your Majeſty of our utmoſt Aſſiſtance to Defend Your Perſon and Support Your Go<g ref="char:EOLhyphen"/>vernment, againſt the late King <hi>James,</hi> and all other Your Enemies both at Home and Abroad; hereby Declaring to all the World, That in Caſe Your Majeſty ſhall come to any Vio<g ref="char:EOLhyphen"/>lent Death (which God forbid) we will Revenge the ſame upon all Your Enemies and their Adherents; And as an Inſtance of our Zeal for Your Majeſties Service, we will give all poſſible Diſpatch to the Publick Buſineſs; And we make it our Deſire to Your Majeſty, to Sieze and Secure all Perſons, Horſes and Arms, that Your Majeſty may think fit to Apprehend upon this Occaſion.</p>
+            <div type="response">
+               <head>His Majeſties moſt Gracious Anſwer to the Addreſs of both Houſes to this Effect:</head>
+               <opener>
+                  <salute>My Lords and Gentlemen,</salute>
+               </opener>
+               <p>I Thank you heartily for this kind Addreſs; on My Part you may be Aſſured that I will do all that is within My Power for the Preſervation of this Kingdom, to which I have ſo many Obliga<g ref="char:EOLhyphen"/>tions; I will readily Venture my Life for Pre<g ref="char:EOLhyphen"/>ſerving it, and Recommend My Self to the Con<g ref="char:EOLhyphen"/>tinuance of your Loyalty and Good Affections.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
